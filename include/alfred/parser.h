@@ -1,0 +1,4 @@
+#ifndef __ALFRED_SERVER_PARSER_H__
+#define __ALFRED_SERVER_PARSER_H__
+
+#endif // __ALFRED_SERVER_PARSER_H__
